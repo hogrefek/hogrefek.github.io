@@ -3,6 +3,8 @@
 Corvallis, OR 97331
 (541) 740-8444
 
+![Kyle Hogrefe](https://github.com/hogrefek/hogrefek.github.io/img/Kyle_HeadShot.PNG)
+
 **_DRAFT - DRAFT - DRAFT - DRAFT_**
 
 email: hogrefek@oregonstate.edu
@@ -65,7 +67,11 @@ Hogrefe, K.R., D.H. Ward, T.F. Donnelly and N. Dau. [Establishing a Baseline for
 
 Hogrefe, K.R., D.J. Wright and E.J. Hochberg. [Derivation and Integration of Shallow-water Bathymetry: Implications for Coastal Terrain Modeling and Subsequent Analyses][Derived_Bathymetry], Marine Geodesy 2008, 31, 4, 299-317.
 
-
+### Professional References
+Name | Title | Organization | E-mail and Phone
+-----|-------|--------------|---------
+Hannah Gosnell |Associate Professor|Oregon State University|gosnellh@geo.oregonstate.edu, 541-737-1222
+David Ward|Research Wildlife Biologist|U.S. Geological Survey, Alaska Science Center|dward@usgs.gov, 909-786-7097
 
 
 [OregonStateUniversity]: http://ceoas.oregonstate.edu/academics/geography/
