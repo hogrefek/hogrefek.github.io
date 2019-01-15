@@ -1,7 +1,7 @@
 ## Kyle Hogrefe
 2730 NW Hayes St.
 Corvallis, OR 97331
-(541) 740-8444
+:telephone: (541) 740-8444  
 
 ![Kyle Hogrefe](https://github.com/hogrefek/hogrefek.github.io/img/Kyle_HeadShot.PNG)
 
