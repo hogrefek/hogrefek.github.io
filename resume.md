@@ -2,7 +2,13 @@
 ![](img/Kyle_HeadShot.PNG)
 2730 NW Hayes St.
 Corvallis, OR 97331
+<<<<<<< HEAD
 :telephone:(541) 740-8444
+=======
+:telephone: (541) 740-8444  
+
+![Kyle Hogrefe](https://github.com/hogrefek/hogrefek.github.io/img/Kyle_HeadShot.PNG)
+>>>>>>> 9ff52599b4e1b5247f635b41d4955f739538b80f
 
 **_DRAFT - DRAFT - DRAFT - DRAFT_**
 
