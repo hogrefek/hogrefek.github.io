@@ -1,7 +1,8 @@
 ## Kyle Hogrefe
-**_CV: DRAFT - DRAFT - DRAFT - DRAFT_**
+
 ![](img/Kyle_HeadShot.PNG)
 
+**_CV: DRAFT - DRAFT - DRAFT - DRAFT_**
 ### Contact
 2730 NW Hayes St.
 Corvallis, OR 97331
