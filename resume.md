@@ -2,13 +2,7 @@
 ![](img/Kyle_HeadShot.PNG)
 2730 NW Hayes St.
 Corvallis, OR 97331
-<<<<<<< HEAD
 :telephone:(541) 740-8444
-=======
-:telephone: (541) 740-8444  
-
-![Kyle Hogrefe](https://github.com/hogrefek/hogrefek.github.io/img/Kyle_HeadShot.PNG)
->>>>>>> 9ff52599b4e1b5247f635b41d4955f739538b80f
 
 **_DRAFT - DRAFT - DRAFT - DRAFT_**
 
@@ -17,7 +11,7 @@ http://www.example.com
 http://www.linkedin.com/in/yourname
 
 ## :clipboard: Summary
-I'm well suited for this positon due the computer modeling skills and deep understanding of how humankind and the environment interact in complex social-ecological systems that I've developed in pursuit of my PhD.  I'm also well versed in GIS and Remote Sesnsing technologies due to my MS in Geography and subsequesnt work for the U.S. Geological Survey, Alaska Science Center.  In serving as _Geospatial Science Coordinator for US Forest Service Region 6_ I will bring these talents to bare on the agencies research and resource management prioirities by ....
+I'm well suited for this positon due the computer modeling skills and deep understanding of how humankind and the environment interact in complex social-ecological systems that I've developed in pursuit of my PhD.  I'm also well versed in GIS and Remote Sesnsing technologies due to my MS in Geography and subsequesnt work for the U.S. Geological Survey, Alaska Science Center.  In serving as _Geospatial Science Coordinator for US Forest Service Region 6_ I will bring these talents to bare on the agency's research and resource management prioirities by ....
 
 ### :muscle: Work Experience (Last 10 years)
 
