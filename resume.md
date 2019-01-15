@@ -1,9 +1,8 @@
 ## Kyle Hogrefe
+![](img/Kyle_HeadShot.PNG)
 2730 NW Hayes St.
 Corvallis, OR 97331
-(541) 740-8444
-
-![Kyle Hogrefe](https://github.com/hogrefek/hogrefek.github.io/img/Kyle_HeadShot.PNG)
+:telephone:(541) 740-8444
 
 **_DRAFT - DRAFT - DRAFT - DRAFT_**
 
@@ -11,10 +10,10 @@ email: hogrefek@oregonstate.edu
 http://www.example.com
 http://www.linkedin.com/in/yourname
 
-## Summary
+## :clipboard: Summary
 I'm well suited for this positon due the computer modeling skills and deep understanding of how humankind and the environment interact in complex social-ecological systems that I've developed in pursuit of my PhD.  I'm also well versed in GIS and Remote Sesnsing technologies due to my MS in Geography and subsequesnt work for the U.S. Geological Survey, Alaska Science Center.  In serving as _Geospatial Science Coordinator for US Forest Service Region 6_ I will bring these talents to bare on the agencies research and resource management prioirities by ....
 
-### Work Experience (Last 10 years)
+### :muscle: Work Experience (Last 10 years)
 
 __Oregon State University: 9/2016 - Present__
 __Corvallis, Oregon, USA__
@@ -32,7 +31,7 @@ __Corvallis, Oregon, USA__
 __Owner / GIS and Remote Sensing Specialist__
 Analyzed IKONOS satellite imagery and other datasets to derive depth in shallow waters at sites across the Pacific Ocean. Integrated derived bathymetry products with multibeam sonar bathymetry to map nearshore terrain and coral reef structure. Delivered finished product packages, including raster grids of integrated bathymetry, error analyses and metadata. Created Gaia Geo-Analytical to foster this work under contract with NOAA's Pacific Islands Fisheries Science Center, Coral Reef Ecosystem Division, and the Pacific Islands Benthic Habitat Mapping Center.
 
-### Education
+### :clock2: Education
 #### Oregon State University (Corvallis, Oregon)
 
 * [Oregon State University][OregonStateUniversity]
@@ -60,14 +59,14 @@ Department of Geography
 > __Undergraduate Student: 08/87 to 06/92__
 Obtained BA in Environmental Studies
 
-### First Author Publications
+### :page_with_curl: First Author Publications
 Hogrefe, K.H., V.P. Patil, D.R. Ruthrauff, B.T. Meixell, M.E. Budde, J.W. Hupp, and D.H. Ward. [Normalized Difference Vegetation Index as an estimator for abundance and quality of avian forage in arctic Alaska][NDVI_Forage]. Remote Sensing, 9:1234
 
 Hogrefe, K.R., D.H. Ward, T.F. Donnelly and N. Dau. [Establishing a Baseline for Regional Scale Monitoring of Eelgrass (Zostera marina) Habitat on the Lower Alaska Peninsula][Eelgrass_Monitoring], Remote Sensing 2014, 6, 12447-12477.
 
 Hogrefe, K.R., D.J. Wright and E.J. Hochberg. [Derivation and Integration of Shallow-water Bathymetry: Implications for Coastal Terrain Modeling and Subsequent Analyses][Derived_Bathymetry], Marine Geodesy 2008, 31, 4, 299-317.
 
-### Professional References
+### :eyeglasses: Professional References
 Name | Title | Organization | E-mail and Phone
 -----|-------|--------------|---------
 Hannah Gosnell |Associate Professor|Oregon State University|gosnellh@geo.oregonstate.edu, 541-737-1222
