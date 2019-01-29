@@ -4,13 +4,14 @@
     <title>Leaflet Map</title>
 		<!-- 3.2 External Stylesheets -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+<!-- 3.2 Add the Leaflet JavaScript library -->
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
 
 </head>
 <body>
     <!-- 3.3 Add a map div -->
 		<div id="map" style="width: 900px; height: 600px"></div>
-		<!-- 3.2 Add the Leaflet JavaScript library -->
-<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+
 		<!-- 3.4 Use JS to creaete map object -->
 <script>
     // Create variable to hold map element, give initial settings to map
@@ -24,9 +25,9 @@
 		// 4.2 Create line feature for the Route from Wilkinson Hall to Strand Ag Hall, style and add to map
 		var myDataLine = L.polyline([[44.5656915, -123.2775289], [44.5656992, -123.2778923], [44.5662266, -123.2778722], [44.5682559, -123.2778293], [44.5682445, -123.2800823]],
     {color: 'red', weight: 5}).addTo(map);
-		// 4.3 Create area feature for Strand Ag Hall, style and add to map
-		var myArea = L.polygon([[44.5651985, -123.2769978],[44.566131, -123.2769978], [44.5661339, -123.2775027], [44.5651985, -123.2775182], [44.5651985, -123.2769978],],
-    {color: 'orange', weight: 5}).addTo(map);
+		// // 4.3 Create area feature for Strand Ag Hall, style and add to map
+		// var myArea = L.polygon([[44.5651985, -123.2769978],[44.566131, -123.2769978], [44.5661339, -123.2775027], [44.5651985, -123.2775182], [44.5651985, -123.2769978],],
+    // {color: 'orange', weight: 5}).addTo(map);
 </script>
 
 
